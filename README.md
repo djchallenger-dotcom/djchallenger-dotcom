@@ -35,4 +35,4 @@ Independent projects built on public and simulated data to demonstrate technique
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/daniel-challenger/) · Open to remote data engineering and analytics roles
+[LinkedIn](https://www.linkedin.com/in/daniel-challenger/) · Always happy to talk data engineering, SQL, or mining analytics.
