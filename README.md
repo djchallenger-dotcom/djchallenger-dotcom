@@ -1,6 +1,6 @@
 # Daniel Challenger
 
-**Data Engineer | Industrial Telemetry & IoT | Predictive Maintenance**
+**Data Engineer | SQL & Operational Analytics | Industrial Telemetry & IoT | Predictive Maintenance**
 
 I turn messy, high-frequency operational data into something reliable and usable.
 
@@ -10,9 +10,10 @@ My background is in **Mining & Metallurgical Engineering** (University of Arizon
 
 ## 🔧 What I work on
 
+- **SQL & database design:** normalized schemas, constraints, partitioning, and query tuning in PostgreSQL and SQL Server
 - **Data pipelines & data quality:** cleaning and validating high-frequency sensor and GPS data at scale
 - **Predictive maintenance:** survival analysis, time-to-event modeling, and failure-risk prediction
-- **Operational analytics:** equipment behavior, queue times, and fleet utilization
+- **Operational analytics:** haul cycles, queue times, equipment availability, and fleet utilization
 - **Dashboards & reporting:** making data usable for people running the operation
 
 ## 📂 Personal projects
@@ -21,13 +22,16 @@ Independent projects built on public and simulated data to demonstrate technique
 
 | Project | Description |
 |---|---|
+| [Haul Fleet Analytics](https://github.com/djchallenger-dotcom/haul-fleet-analytics) | SQL analytics on six months of simulated open-pit haulage (36 Mt, 20 trucks, 3 shovels): cycle time, availability, downtime, and crew performance. PostgreSQL with partitioning, exclusion constraints, recursive CTEs, query-plan tuning, and a data quality scorecard, ported to SQL Server with verified matching results |
 | [Predictive Maintenance with Survival Analysis](https://github.com/djchallenger-dotcom/predictive-maintenance-survival-analysis) | Kaplan-Meier, Cox proportional hazards, and remaining-useful-life prediction on NASA turbofan engine data |
 | [Haul Truck Monitoring & Alerting](https://github.com/djchallenger-dotcom/industrial-monitoring-system) | Anomaly detection, equipment health scoring, and tiered alerts from time-series sensor data |
 | [SaaS Retention & Funnel Analysis](https://github.com/djchallenger-dotcom/saas-retention-analysis) | Funnel drop-off, A/B testing, and retention analysis on event-level data |
 
 ## 🛠️ Tools
 
-Python (pandas, scikit-learn, lifelines) · PostgreSQL · MSSQL · REST APIs · Jupyter · Git · Excel
+- **SQL:** PostgreSQL · SQL Server (T-SQL)
+- **Python:** pandas · scikit-learn · lifelines · Jupyter
+- **Other:** REST APIs · Git · Excel
 
 ## 📫 Contact
 
